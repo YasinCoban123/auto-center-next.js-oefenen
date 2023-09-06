@@ -38,11 +38,11 @@ const Footer = () => (
       <p>@2023 AutoCenter. Alle Rechten Gereserveerd</p>
 
       <div className="footer__copyrights-link">
-        <Link href="/" className="text-gray-500">
-          Privacy & Policy
+        <Link href="/" className="text-gray-500 ml-5">
+          Privacy & Beleid
         </Link>
         <Link href="/" className="text-gray-500">
-          Terms & Condition
+          Termen & Condities
         </Link>
       </div>
     </div>
